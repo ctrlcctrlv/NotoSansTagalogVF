@@ -1,0 +1,9 @@
+languagesystem tagl TGL;
+
+# Hollow kudlit
+feature salt {
+  lookup salt1 {
+    sub uni1712 by uni1712.alt;
+    sub uni1713 by uni1713.alt;
+  }
+}
